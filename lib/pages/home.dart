@@ -105,7 +105,7 @@ class _HomeState extends State<Home> {
                   textAlign: TextAlign.center,
                   style: TextStyle(
                     fontSize: 18,
-                    color: Colors.grey[500],
+                    color: Colors.grey[700],
                     height: 1.5,
                   ),
                 ),
